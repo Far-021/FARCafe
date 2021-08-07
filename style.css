@@ -66,6 +66,13 @@ h3{
 	bottom: 200px;
 }
 
+h4{
+	position: absolute;
+	width: 450px;
+	left: 450px;
+	bottom: 300px;
+}
+
 .lighter
 {
 color:#F2D76A;
